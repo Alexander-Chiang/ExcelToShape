@@ -1,0 +1,7 @@
+d:\library\documents\visual studio 2010\Projects\ExcelToShape\ExcelToShape\bin\Debug\ExcelToShape.exe
+d:\library\documents\visual studio 2010\Projects\ExcelToShape\ExcelToShape\bin\Debug\ExcelToShape.pdb
+d:\library\documents\visual studio 2010\Projects\ExcelToShape\ExcelToShape\obj\x86\Debug\ExcelToShape.Form1.resources
+d:\library\documents\visual studio 2010\Projects\ExcelToShape\ExcelToShape\obj\x86\Debug\ExcelToShape.Properties.Resources.resources
+d:\library\documents\visual studio 2010\Projects\ExcelToShape\ExcelToShape\obj\x86\Debug\ExcelToShape.csproj.GenerateResource.Cache
+d:\library\documents\visual studio 2010\Projects\ExcelToShape\ExcelToShape\obj\x86\Debug\ExcelToShape.exe
+d:\library\documents\visual studio 2010\Projects\ExcelToShape\ExcelToShape\obj\x86\Debug\ExcelToShape.pdb

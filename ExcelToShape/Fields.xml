@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fieldlist>
+  <field name="XH" type="LONG" />
+  <field name="XMMC" type="TEXT" length="50" />
+  <field name="XMSZD" type="TEXT" length="50" />
+  <field name="JSQ" type="LONG" />
+  <field name="ZGM" type="LONG" />
+  <field name="ZTZ" type="LONG" />
+  <field name="XZGDMJ" type="LONG" />
+  <field name="SJKYYZBP" type="LONG" />
+  <field name="SHSJ" type="DATE" />
+  <field name="YSRQ" type="DATE" />
+  <field name="JSXMMC" type="TEXT" length="50" />
+  <field name="GGMJ" type="LONG" />
+  <field name="JSYDZMJ" type="LONG" />
+  <field name="JSYDGDMJ" type="LONG" />
+  <field name="PZSJ" type="DATE" />
+  <field name="SFYS" type="DATE" />
+  <field name="JD" type="TEXT" length="50" />
+  <field name="ZT" type="TEXT" length="50" />
+  <field name="PZSJXYYS" type="TEXT" length="50" />
+  <field name="SJCJSJ" type="DATE" />
+  <field name="SJMJ" type="DOUBLE" />
+  <field name="SBMJ" type="DOUBLE" />
+  <field name="CZ" type="DOUBLE" />
+  <field name="DB" type="LONG" />
+</fieldlist>
