@@ -88,9 +88,7 @@ namespace ExcelToShape
             btnSetInput.Enabled = false;
             btnSetOutput.Enabled = false;
             btnTransform.Enabled = false;
-            radioToPoint.Enabled = false;
-            radioToLine.Enabled = false;
-            radioToPloygon.Enabled = false;
+
         }
         void enableUI()
         {
@@ -103,9 +101,7 @@ namespace ExcelToShape
             btnSetInput.Enabled = true;
             btnSetOutput.Enabled = true;
             btnTransform.Enabled = true;
-            radioToPoint.Enabled = true;
-            radioToLine.Enabled = true;
-            radioToPloygon.Enabled = true;
+
         }
         bool checkSetting()
         {
